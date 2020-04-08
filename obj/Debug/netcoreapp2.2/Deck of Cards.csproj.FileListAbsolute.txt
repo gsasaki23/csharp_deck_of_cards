@@ -1,0 +1,11 @@
+C:\Users\gakus\Documents\CodingDojo\05_c#_stack\language_fundamentals\oop_with_c#\Deck of Cards\bin\Debug\netcoreapp2.2\Deck of Cards.deps.json
+C:\Users\gakus\Documents\CodingDojo\05_c#_stack\language_fundamentals\oop_with_c#\Deck of Cards\bin\Debug\netcoreapp2.2\Deck of Cards.runtimeconfig.json
+C:\Users\gakus\Documents\CodingDojo\05_c#_stack\language_fundamentals\oop_with_c#\Deck of Cards\bin\Debug\netcoreapp2.2\Deck of Cards.runtimeconfig.dev.json
+C:\Users\gakus\Documents\CodingDojo\05_c#_stack\language_fundamentals\oop_with_c#\Deck of Cards\bin\Debug\netcoreapp2.2\Deck of Cards.dll
+C:\Users\gakus\Documents\CodingDojo\05_c#_stack\language_fundamentals\oop_with_c#\Deck of Cards\bin\Debug\netcoreapp2.2\Deck of Cards.pdb
+C:\Users\gakus\Documents\CodingDojo\05_c#_stack\language_fundamentals\oop_with_c#\Deck of Cards\obj\Debug\netcoreapp2.2\Deck of Cards.csprojAssemblyReference.cache
+C:\Users\gakus\Documents\CodingDojo\05_c#_stack\language_fundamentals\oop_with_c#\Deck of Cards\obj\Debug\netcoreapp2.2\Deck of Cards.csproj.CoreCompileInputs.cache
+C:\Users\gakus\Documents\CodingDojo\05_c#_stack\language_fundamentals\oop_with_c#\Deck of Cards\obj\Debug\netcoreapp2.2\Deck of Cards.AssemblyInfoInputs.cache
+C:\Users\gakus\Documents\CodingDojo\05_c#_stack\language_fundamentals\oop_with_c#\Deck of Cards\obj\Debug\netcoreapp2.2\Deck of Cards.AssemblyInfo.cs
+C:\Users\gakus\Documents\CodingDojo\05_c#_stack\language_fundamentals\oop_with_c#\Deck of Cards\obj\Debug\netcoreapp2.2\Deck of Cards.dll
+C:\Users\gakus\Documents\CodingDojo\05_c#_stack\language_fundamentals\oop_with_c#\Deck of Cards\obj\Debug\netcoreapp2.2\Deck of Cards.pdb
